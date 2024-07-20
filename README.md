@@ -61,3 +61,11 @@ Welcome to my 30 Days of JavaScript Challenge! This challenge is designed to imp
 1. Clone this repository:
    ```bash
    git clone https://github.com/RehanTechForge/30-Days-Of-JS-Challange
+
+2. Navigate to the project directory:
+   cd 30 Days of JS
+
+3. Open the specific day's folder to see the code and activities.
+
+### License
+      This project is licensed under the MIT License.
