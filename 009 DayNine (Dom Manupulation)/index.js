@@ -50,6 +50,8 @@ document.querySelector(".buttonSix").addEventListener("click", () => {
   ulThird.lastElementChild.remove();
 });
 
+// any other day will complete this question because this type question again and again repeat...
+
 // ***Activity 4: Modifying Attributes and Classes
 
 //! - Task 7: Select an HTML element and change one of its attributes (e.g., `src` of an `img` tag).

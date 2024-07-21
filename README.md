@@ -35,11 +35,11 @@ Welcome to my 30 Days of JavaScript Challenge! This challenge is designed to imp
 
 ### Day 7: Objects
 - **Activity:** Learn about objects and how to use them
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/007%20DaySeven%20(Objects) | 007 DaySeven (Objects)
+- **Code:** [Day Seven](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/007%20DaySeven%20(Objects)) | 007 DaySeven (Objects)
 
 ### Day 8: ES6+ Features
 - **Activity:** Explore modern JavaScript features like template literals, destructuring, and more
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/008%20DayEight%20(ES6%20Features) | 008 DayEight (ES6 Features)
+- **Code:** [Day Eight](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/008%20DayEight%20(ES6%20Features)) | 008 DayEight (ES6 Features)
 
 ## Progress Tracker
 
