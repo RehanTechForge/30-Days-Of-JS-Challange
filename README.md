@@ -11,27 +11,27 @@ Welcome to my 30 Days of JavaScript Challenge! This challenge is designed to imp
 
 ### Day 1: Variables and Data Types
 - **Activity:** Learn about variables, constants, and different data types
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/001%20DayOne%20(Variables%20%26%20Data%20Types) | 001 DayOne (Variables & Data Types)
+- **Code:** [Day One](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/001%20DayOne%20(Variables%20%26%20Data%20Types)) | 001 DayOne (Variables & Data Types)
 
 ### Day 2: Operators
 - **Activity:** Explore different operators in JavaScript
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/002%20DayTwo%20(Operators) | 002 DayTwo (Operators)
+- **Code:** [Day Two](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/002%20DayTwo%20(Operators)) | 002 DayTwo (Operators)
 
 ### Day 3: Control Structures
 - **Activity:** Understand and use control structures like if-else, switch-case
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/003%20DayThree%20(Control%20Structure) | 003 DayThree (Control Structure)
+- **Code:** [Day Three](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/003%20DayThree%20(Control%20Structure)) | 003 DayThree (Control Structure)
 
 ### Day 4: Loops
 - **Activity:** Practice different types of loops
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/004%20DayFour%20(Loops) | 004 DayFour (Loops)
+- **Code:** [Day Four](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/004%20DayFour%20(Loops)) | 004 DayFour (Loops)
 
 ### Day 5: Functions
 - **Activity:** Write and invoke functions
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/005%20DayFive%20(Functions) | 005 DayFive (Functions)
+- **Code:** [Day Five](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/005%20DayFive%20(Functions)) | 005 DayFive (Functions)
 
 ### Day 6: Arrays
 - **Activity:** Work with arrays and their methods
-- **Code:** https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/006%20DaySix%20(Arrays) | 006 DaySix (Arrays)
+- **Code:** [Day Six](https://github.com/RehanTechForge/30-Days-Of-JS-Challange/tree/main/006%20DaySix%20(Arrays)) | 006 DaySix (Arrays)
 
 ### Day 7: Objects
 - **Activity:** Learn about objects and how to use them
